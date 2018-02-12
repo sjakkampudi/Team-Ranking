@@ -1,4 +1,6 @@
 # Team-Ranking
-playing around with ranking algorithms as I find new ones
+trying out different ranking methods
+looking into MATLAB integration with Python
+expanding numpy usage
 
 Requires Python 3.4 for MATLAB compatibility.
